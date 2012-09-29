@@ -19,22 +19,58 @@
           </td> 
        <h1>Joe Hamman</h1> 
     <p>PhD Candidate<br> 
-       jhamman at u.washington.edu</p> 
+       jhamman at hydro.washington.edu</p> 
  
       <h2>Research Interests</h2> 
  
-      <p>Water Resources Management, Climate Change Impacts <br>  
- 
-      <h2>Education</h2> 
- 
-      <p><i>M.S., Civil Engineering, 2012<br>
-        University of Washington, Seattle, Washington
-      </i>            </p>
-<p><i>B.S., Civil &amp; Environmental Engineering, 2007<br>
-University of Arizona, Tucson, Arizona</i> 
- 
-      <!-- ************End main section --> 
-    </p>
+      <p>Water Resources Management, Climate Change Impacts, Climate Variability, Climate Modeling
+      <h2>Current Research</h2>
+      <ul>
+        <li>Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in the Skagit River Floodplain</li>
+        <li>Analysis of Cool-Season Precipitation in Western United States</li>
+        <li>Regional Arctic System Model (<a href="http://www.iarc.uaf.edu/ASM/">RASM</a>)</li>
+      </ul>
+      <hr>
+      <h2>Education</h2>
+<ul>
+        <li><i>M.S., Civil Engineering, 2012<br>
+        <a href="http://www.ce.washington.edu/index.php">University of Washington</a>, Seattle, Washington </i></li>
+</ul>
+<ul>
+  <li><i>B.S., Civil &amp; Environmental Engineering, 2007<br>
+    <a href="http://civil.arizona.edu/">University of Arizona</a>, Tucson, Arizona</i> 
+    
+    <!-- ************End main section --> 
+  </li>
+</ul>
+<hr>
+<h2>Positions Held</h2>
+<ul>
+  <li>2010 - 2012: Water Resource Specialist<br>
+    <a href="http://www.tecinc.com/">Cardno TEC, Inc</a>., Seattle, WA</li>
+</ul>
+<ul>
+  <li>2007 - 2009: Design Engineer<br>
+    <a href="http://www.rothhill.com/">Roth-Hill Engineering Partners</a>, Bellevue, WA</li>
+</ul>
+<hr>
+<h2>Publications</h2>
+<ul>
+  <li>
+    <p>Freitag, B.,  Carlton, D., &amp; Hamman, J. (2012). Building better flood risk maps: Lessons  learned from the electric car. <em>XXXVII</em> (1), 8-10. [<a href="http://www.hydro.washington.edu/~jhamman/publications/Freitag_2012_NaturalHazardsObserver_paper.pdf">.pdf</a>]</p>
+  </li>
+</ul>
+<hr>
+<h2>Links</h2>
+<ul>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/presentations.php">Presentations / Posters</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2012.pdf">Resume [.pdf]</a></li>
+  <li>CV - Coming Soon</li>
+  <li><a href="ftp://ftp.hydro.washington.edu/pub/jhamman/">FTP Site</a></li>
+  </ul>
+<p>Updated:
+  <!-- #BeginDate format:Am1 -->September 28, 2012<!-- #EndDate -->
+</p>
     </div> 
     <div id="clear">&nbsp;</div> 
   </div> 
