@@ -24,6 +24,7 @@
       <h2>Presentations</h2> 
  
       <ul>
+        <li>Hamman, J.J., Hamlet, A.F. (2012, September). Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in the Skagit River Floodplain. Oral presentation at the 2012 Pacific Northwest Climate Science Conference, Boise, ID [<a href="http://www.hydro.washington.edu/~jhamman/presentations/Hamman_2012_PNWCSC_presentation.pdf">.pdf</a>] [<a href="http://www.hydro.washington.edu/~jhamman/presentations/Hamman_2012_PNWCSC_presentation.pptx">.pptx</a>]</li>
         <li>Hamman, J.J. (2012, June). Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in Puget Sound Floodplains and Estuaries. Masters Thesis Defense presentation, Department of Civil &amp; Environmental Engineering, University of Washington, Seattle, WA. [<a href="http://www.hydro.washington.edu/~jhamman/presentations/Hamman_2012_ThesisDefense_presentation.pdf">.pdf</a>] [<a href="http://www.hydro.washington.edu/~jhamman/presentations/Hamman_2012_ThesisDefense_presentation.pptx">.pptx</a>]</li>
         <li>Hamman, J.J., Hamlet, A.F. (2011, September). Diagnosis of Changing Cool Season Precipitation Statistics in the Western U.S. from 1916-2003. Oral presentation at the 2011 University of Washington / University of British Columbia Water Symposium, Vancouver, BC, Canada. [<a href="http://www.hydro.washington.edu/~jhamman/presentations/Hamman_2011_UWUBCsymp_presentation.pdf">.pdf</a>] [<a href="http://www.hydro.washington.edu/~jhamman/presentations/Hamman_2011_UWUBCsymp_presentation.pptx">.pptx</a>]</li>
       </ul>
@@ -34,7 +35,7 @@
         <li>Hamman, J.J., Hamlet, A.F., Littell, J.  (2011, September).  Diagnosis of Changing Cool Season Precipitation Statistics in the Western U.S. from 1916-2003.  Poster session presented at the 2011 Pacific Northwest Climate Science Conference, Seattle, WA.  [<a href="http://www.hydro.washington.edu/~jhamman/posters/Hamman_2011_PNWCSC_poster.pdf">.pdf</a>]</li>
       </ul>
       <p>Updated: 
-        <!-- #BeginDate format:Am1 -->September 28, 2012<!-- #EndDate -->
+        <!-- #BeginDate format:Am1 -->September 30, 2012<!-- #EndDate -->
 
     </div> 
     <div id="clear">&nbsp;</div> 
