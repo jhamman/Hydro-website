@@ -15,7 +15,7 @@
     <div id="right"> 
       <!-- ***************  Main section of page --> 
  <td align="right" valign="top" width="162">  
-        <h2 align="right"><img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/2/000/024/1de/36fb7ba.jpg"  height=175 align="right" border="1" vspace=15 hspace=30></h2> 
+        <h2 align="right"><img src="http://www.hydro.washington.edu/~jhamman/pictures/Picture_Hamman.jpg"  height=175 align="right" border="1" vspace=15 hspace=30></h2> 
           </td> 
        <h1>Joe Hamman</h1> 
     <p>PhD Candidate<br> 
@@ -37,7 +37,7 @@
         <a href="http://www.ce.washington.edu/index.php">University of Washington</a>, Seattle, Washington </i></li>
 </ul>
 <ul>
-  <li><i>B.S., Civil &amp; Environmental Engineering, 2007<br>
+  <li><i>B.S., Civil Engineering, 2007<br>
     <a href="http://civil.arizona.edu/">University of Arizona</a>, Tucson, Arizona</i> 
     
     <!-- ************End main section --> 
