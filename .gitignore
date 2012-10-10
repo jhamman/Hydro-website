@@ -4,3 +4,8 @@ posters
 presentations/
 publications/
 resume/
+pictures/
+
+#ignore these file types
+*~
+*.jpg
