@@ -28,7 +28,7 @@
       <ul>
         <li>Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in the Skagit River Floodplain</li>
         <li>Analysis of Cool-Season Precipitation in Western United States</li>
-        <li>Regional Arctic System Model (<a href="http://www.iarc.uaf.edu/ASM/">RASM</a>)</li>
+        <li>Regional Arctic System Model (<a href="http://www.oc.nps.edu/NAME/RASM.htm">RASM</a>)</li>
       </ul>
       <hr>
       <h2>Education</h2>
@@ -57,7 +57,7 @@
 <h2>Publications</h2>
 <ul>
   <li>
-    <p>Freitag, B.,  Carlton, D., &amp; Hamman, J. (2012). Building better flood risk maps: Lessons  learned from the electric car. <em>XXXVII</em> (1), 8-10. [<a href="http://www.hydro.washington.edu/~jhamman/publications/Freitag_2012_NaturalHazardsObserver_paper.pdf">.pdf</a>]</p>
+    <p>Freitag, B.,  Carlton, D., &amp; Hamman, J. (2012). Building better flood risk maps: Lessons  learned from the electric car. Natural Hazards Observer, <em>XXXVII</em> (1), 8-10. [<a href="http://www.hydro.washington.edu/~jhamman/publications/Freitag_2012_NaturalHazardsObserver_paper.pdf">.pdf</a>]</p>
   </li>
 </ul>
 <hr>
@@ -65,11 +65,11 @@
 <ul>
   <li><a href="http://www.hydro.washington.edu/~jhamman/presentations.php">Presentations / Posters</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2012.pdf">Resume [.pdf]</a></li>
-  <li>CV - Coming Soon</li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2012.pdf">CV [.pdf]</a></li>
   <li><a href="ftp://ftp.hydro.washington.edu/pub/jhamman/">FTP Site</a></li>
   </ul>
 <p>Updated:
-  <!-- #BeginDate format:Am1 -->September 28, 2012<!-- #EndDate -->
+  <!-- #BeginDate format:Am1 -->December 8, 2012<!-- #EndDate -->
 </p>
     </div> 
     <div id="clear">&nbsp;</div> 
