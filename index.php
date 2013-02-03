@@ -67,6 +67,7 @@
   <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2012.pdf">Resume [.pdf]</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2012.pdf">CV [.pdf]</a></li>
   <li><a href="ftp://ftp.hydro.washington.edu/pub/jhamman/">FTP Site</a></li>
+  <li><a href="https://github.com/jhamman">GitHub Page</a></li>
   </ul>
 <p>Updated:
   <!-- #BeginDate format:Am1 -->December 8, 2012<!-- #EndDate -->
