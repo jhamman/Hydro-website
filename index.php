@@ -17,7 +17,7 @@
  <td align="right" valign="top" width="162">  
         <h2 align="right"><img src="http://www.hydro.washington.edu/~jhamman/pictures/Picture_Hamman.jpg"  height=175 align="right" border="1" vspace=15 hspace=30></h2> 
           </td> 
-       <h1>Joe Hamman</h1> 
+   <h1>Joe Hamman, P.E.</h1> 
     <p>PhD Candidate<br> 
        jhamman at hydro.washington.edu</p> 
  
@@ -46,6 +46,14 @@
 <hr>
 <h2>Positions Held</h2>
 <ul>
+  <li>2010 - Present: Research Assistant<br>
+    <a href="http://www.ce.washington.edu/index.php">Department of Civil and Environmental Engineering, University of Washington</a>., Seattle, WA</li>
+</ul>
+<ul>
+   <li>Spring 2013: Adjunct Professor:  <br>
+    <a href="http://www.seattleu.edu/scieng/cee/">Department of Civil and Environmental Engineering, Seattle University</a>., Seattle, WA</li>
+</ul>
+<ul>
   <li>2010 - 2012: Water Resource Specialist<br>
     <a href="http://www.tecinc.com/">Cardno TEC, Inc</a>., Seattle, WA</li>
 </ul>
@@ -64,13 +72,13 @@
 <h2>Links</h2>
 <ul>
   <li><a href="http://www.hydro.washington.edu/~jhamman/presentations.php">Presentations / Posters</a></li>
-  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2012.pdf">Resume [.pdf]</a></li>
-  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2012.pdf">CV [.pdf]</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2013.pdf">Resume [.pdf]</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2013.pdf">CV [.pdf]</a></li>
   <li><a href="ftp://ftp.hydro.washington.edu/pub/jhamman/">FTP Site</a></li>
   <li><a href="https://github.com/jhamman">GitHub Page</a></li>
   </ul>
 <p>Updated:
-  <!-- #BeginDate format:Am1 -->December 8, 2012<!-- #EndDate -->
+  <!-- #BeginDate format:Am1 -->June 10, 2013<!-- #EndDate -->
 </p>
     </div> 
     <div id="clear">&nbsp;</div> 
