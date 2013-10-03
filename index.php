@@ -74,11 +74,13 @@
   <li><a href="http://www.hydro.washington.edu/~jhamman/presentations.php">Presentations / Posters</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2013.pdf">Resume [.pdf]</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2013.pdf">CV [.pdf]</a></li>
+  <li><a href="http://scholar.google.com/citations?user=kCr0x0sAAAAJ">Google Scholar Page</a></li>
+  <li><a href="http://jhamman.github.io/">Blog</a></li>
   <li><a href="ftp://ftp.hydro.washington.edu/pub/jhamman/">FTP Site</a></li>
   <li><a href="https://github.com/jhamman">GitHub Page</a></li>
   </ul>
 <p>Updated:
-  <!-- #BeginDate format:Am1 -->June 10, 2013<!-- #EndDate -->
+  <!-- #BeginDate format:Am1 -->October 3, 2013<!-- #EndDate -->
 </p>
     </div> 
     <div id="clear">&nbsp;</div> 
