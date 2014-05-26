@@ -18,7 +18,7 @@
         <h2 align="right"><img src="http://www.hydro.washington.edu/~jhamman/pictures/Picture_Hamman.jpg"  height=175 align="right" border="1" vspace=15 hspace=30></h2> 
           </td> 
    <h1>Joe Hamman, P.E.</h1> 
-    <p>PhD Candidate<br> 
+    <p>Ph.D. Candidate<br> 
        jhamman at hydro.washington.edu</p> 
  
       <h2>Research Interests</h2> 
@@ -26,19 +26,20 @@
       <p>Water Resources Management, Climate Change Impacts, Climate Variability, Climate Modeling
       <h2>Current Research</h2>
       <ul>
+        <li>Regional Arctic System Model (<a href="http://www.oc.nps.edu/NAME/RASM.htm">RASM</a>)</li>
+        <li>Effects of Climate Change on the Hydrology of the Columbia River </li>
         <li>Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in the Skagit River Floodplain</li>
         <li>Analysis of Cool-Season Precipitation in Western United States</li>
-        <li>Regional Arctic System Model (<a href="http://www.oc.nps.edu/NAME/RASM.htm">RASM</a>)</li>
       </ul>
       <hr>
       <h2>Education</h2>
 <ul>
+        <li><i>Ph.D., Civil Engineering, expected 2016<br>
+        <a href="http://www.ce.washington.edu/index.php">University of Washington</a>, Seattle, Washington </i></li>
         <li><i>M.S., Civil Engineering, 2012<br>
         <a href="http://www.ce.washington.edu/index.php">University of Washington</a>, Seattle, Washington </i></li>
-</ul>
-<ul>
-  <li><i>B.S., Civil Engineering, 2007<br>
-    <a href="http://civil.arizona.edu/">University of Arizona</a>, Tucson, Arizona</i> 
+        <li><i>B.S., Civil Engineering, 2007<br>
+        <a href="http://civil.arizona.edu/">University of Arizona</a>, Tucson, Arizona</i> 
     
     <!-- ************End main section --> 
   </li>
@@ -48,20 +49,12 @@
 <ul>
   <li>2010 - Present: Research Assistant<br>
     <a href="http://www.ce.washington.edu/index.php">Department of Civil and Environmental Engineering, University of Washington</a>. Seattle, WA</li>
-</ul>
-<ul>
    <li>2013: Adjunct Professor<br>
     <a href="http://www.seattleu.edu/scieng/cee/">Department of Civil and Environmental Engineering, Seattle University</a>. Seattle, WA</li>
-</ul>
-<ul>
   <li>2010 - 2012: Water Resource Specialist<br>
     <a href="http://www.tecinc.com/">Cardno TEC, Inc</a>. Seattle, WA</li>
-</ul>
-<ul>
   <li>2007 - 2009: Design Engineer<br>
     <a href="http://www.rothhill.com/">Roth-Hill Engineering Partners</a>. Bellevue, WA</li>
-</ul>
-<ul>
   <li>2007: Civil Engineering Intern<br>
     <a href="http://www.dowlhkm.com">Dowl Engineering</a>. Tucson, AZ</li>
 </ul>
@@ -86,7 +79,7 @@
   <li><a href="https://github.com/jhamman">GitHub Page</a></li>
   </ul>
 <p>Updated:
-  <!-- #BeginDate format:Am1 -->October 6, 2013<!-- #EndDate -->
+  <!-- #BeginDate format:Am1 -->May 26, 2014<!-- #EndDate -->
 </p>
     </div> 
     <div id="clear">&nbsp;</div> 
