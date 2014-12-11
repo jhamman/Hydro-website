@@ -51,7 +51,7 @@
     <a href="http://www.ce.washington.edu/index.php">Department of Civil and Environmental Engineering, University of Washington</a>. Seattle, WA</li>
    <li>2013: Adjunct Professor<br>
     <a href="http://www.seattleu.edu/scieng/cee/">Department of Civil and Environmental Engineering, Seattle University</a>. Seattle, WA</li>
-  <li>2010 - 2012: Water Resource Specialist<br>
+  <li>2010 - 2014: Water Resource Specialist<br>
     <a href="http://www.tecinc.com/">Cardno TEC, Inc</a>. Seattle, WA</li>
   <li>2007 - 2009: Design Engineer<br>
     <a href="http://www.rothhill.com/">Roth-Hill Engineering Partners</a>. Bellevue, WA</li>
@@ -70,8 +70,8 @@
 <ul>
   <li><a href="http://www.hydro.washington.edu/~jhamman/presentations.php">Presentations / Posters</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/courses.php">Courses I've taken</a></li>
-  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2013.pdf">Resume [.pdf]</a></li>
-  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2013.pdf">CV [.pdf]</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2014.pdf">Resume [.pdf]</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2014.pdf">CV [.pdf]</a></li>
   <li><a href="http://scholar.google.com/citations?user=kCr0x0sAAAAJ">Google Scholar Page</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/updates/index.html">Weekly Progress Reports<a/></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/hydro-logic/index.html">Blog</a></li>

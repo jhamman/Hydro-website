@@ -295,312 +295,732 @@ td
       </a>
       <h2>Courses I've taken</h2> 
 
-<table border=0 cellpadding=0 cellspacing=0 width=514 style='border-collapse:
- collapse;table-layout:fixed;width:514pt'>
- <col width=83 style='mso-width-source:userset;mso-width-alt:3541;width:83pt'>
- <col width=231 style='mso-width-source:userset;mso-width-alt:9856;width:231pt'>
- <col width=92 style='mso-width-source:userset;mso-width-alt:3925;width:92pt'>
- <col width=43 style='mso-width-source:userset;mso-width-alt:1834;width:43pt'>
- <col width=65 style='width:65pt'>
- <tr height=15 style='height:15.0pt'>
-  <td rowspan=2 height=30 width=83 style='border-bottom:.5pt solid black;
-  height:30.0pt;width:83pt' align=left valign=top><span style='position:absolute;
-  z-index:1;margin-left:-1px;margin-top:29px;width:90px;height:7px'>
-  <table cellpadding=0 cellspacing=0>
-   <tr>
-    <td width=0 height=0></td>
-    <td width=3></td>
-    <td width=80></td>
-    <td width=7></td>
-   </tr>
-   <tr>
-    <td height=3></td>
-    <td rowspan=2 align=left valign=top><span style='position:absolute;
-    z-index:3;margin-left:0px;margin-top:0px;width:3px;height:3px'><img
-    width=3 height=3 src="test_files/image001.png"></span><span
-    style='position:absolute;z-index:4;margin-left:0px;margin-top:0px;
-    width:3px;height:7px'><img width=3 height=7 src="test_files/image002.png"></span></td>
-    <td></td>
-    <td align=left valign=top><span style='position:absolute;z-index:1;
-    margin-left:0px;margin-top:0px;width:3px;height:3px'><img width=3 height=3
-    src="test_files/image003.png"></span><span style='position:absolute;
-    z-index:2;margin-left:0px;margin-top:0px;width:7px;height:3px'><img
-    width=7 height=3 src="test_files/image004.png"></span></td>
-   </tr>
-   <tr>
-    <td height=4></td>
-   </tr>
-  </table>
-  </span>
-  <table cellpadding=0 cellspacing=0>
-   <tr>
-    <td rowspan=2 height=30 class=xl70 width=83 style='border-bottom:.5pt solid black;
-    height:30.0pt;width:83pt'>Course</td>
-   </tr>
-  </table>
-  </span></td>
-  <td rowspan=2 class=xl71 width=231 style='border-bottom:.5pt solid black;
-  width:231pt'>Course Title</td>
-  <td rowspan=2 class=xl71 width=92 style='border-bottom:.5pt solid black;
-  width:92pt'>Instructor</td>
-  <td rowspan=2 class=xl72 width=43 style='border-bottom:.5pt solid black;
-  width:43pt'>Credits</td>
-  <td width=65 style='width:65pt'></td>
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.25in'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>Course<o:p></o:p></span></b></p>
+  </td>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-left:none;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>Course Title <o:p></o:p></span></b></p>
+  </td>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-left:none;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>Instructor <o:p></o:p></span></b></p>
+  </td>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-left:none;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>Credits <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 style='height:15.0pt'></td>
+ <tr style='mso-yfti-irow:1;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>SPRING 2014<o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=18 style='height:18.0pt'>
-  <td colspan=4 height=18 class=xl75 style='border-right:.5pt solid black;
-  height:18.0pt'>Winter 2013</td>
-  <td></td>
+ <tr style='mso-yfti-irow:2;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 599<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Satellite
+  Remote Sensing For Water Resources <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span class=SpellE><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'>Hossain</span></span><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'><o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 475</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>GROUNDWATER
-  FLOW</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>NIJSSEN</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:3;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>WINTER 2013 <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 573</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>SNOW
-  HYDROLOGY</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>LUNDQUIST</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:4;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 475
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Groundwater
+  Flow <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Nijssen
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=18 style='height:18.0pt'>
-  <td colspan=4 height=18 class=xl79 style='border-right:.5pt solid black;
-  height:18.0pt'>Autumn 2012</td>
-  <td></td>
+ <tr style='mso-yfti-irow:5;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 573
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Snow
+  Hydrology <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Lundquist
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;width:83pt'>ATM S 503</td>
-  <td class=xl65 width=231 style='border-left:none;width:231pt'>ATMOS MOTIONS I</td>
-  <td class=xl65 width=92 style='border-left:none;width:92pt'>DURRAN</td>
-  <td class=xl78 width=43 style='border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:6;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>AUTUMN 2012 <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>ESS 505</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>THE
-  CRYOSPHERE</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>WADDINGTON</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>4</td>
-  <td></td>
+ <tr style='mso-yfti-irow:7;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>ATM S
+  503 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Atmospheric
+  Motions I <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span class=SpellE><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'>Durran</span></span><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'> <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=18 style='height:18.0pt'>
-  <td colspan=4 height=18 class=xl75 style='border-right:.5pt solid black;
-  height:18.0pt'>Autumn 2011</td>
-  <td></td>
+ <tr style='mso-yfti-irow:8;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>ESS 505
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>The
+  Cryosphere <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Waddington
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>4<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>ATM S 587</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>CLIMATE
-  DYNAMICS</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>BATTISTI</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:9;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>AUTUMN 2011 <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>URBDP 598</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>SPECIAL
-  TOPICS: FLOODPLAIN MANAGEMENT</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>FREITAG</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:10;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>ATM S
+  587 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Climate
+  Dynamics <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span class=SpellE><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'>Battisti</span></span><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'> <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=18 style='height:18.0pt'>
-  <td colspan=4 height=18 class=xl81 style='border-right:.5pt solid black;
-  height:18.0pt'>Spring 2011</td>
-  <td></td>
+ <tr style='mso-yfti-irow:11;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>URBDP
+  598 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Special
+  Topics: Floodplain Management <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span class=SpellE><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'>Freitag</span></span><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'> <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>ATM S 521</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>SMNR
-  ATMOS&amp; CLIM DYN</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>-</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>1</td>
-  <td></td>
+ <tr style='mso-yfti-irow:12;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>SPRING 2011 <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 491</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>DETERMINISTIC
-  SYS</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>HAMLET</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:13;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>ATM S
+  521 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Seminar
+  Atmospheric &amp; Climate Dynamics<o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>- <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>1<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 599</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>SPECIAL
-  TOPICS CEE: PRECIPITATION</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>LETTENMAIER</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:14;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 491
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Deterministic
+  Sys <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Hamlet <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=18 style='height:18.0pt'>
-  <td colspan=4 height=18 class=xl79 style='border-right:.5pt solid black;
-  height:18.0pt'>Winter 2011</td>
-  <td></td>
+ <tr style='mso-yfti-irow:15;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 599
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Precipitation
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Lettenmaier
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;width:83pt'>AMATH 582</td>
-  <td class=xl65 width=231 style='border-left:none;width:231pt'>COMP METH DATA
-  ANLY</td>
-  <td class=xl65 width=92 style='border-left:none;width:92pt'>KUTZ</td>
-  <td class=xl78 width=43 style='border-left:none;width:43pt'>5</td>
-  <td></td>
+ <tr style='mso-yfti-irow:16;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>WINTER 2011 <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 474</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>SEDIMENT
-  TRANSPORT</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>HORNER-DEVINE</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:17;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>AMATH
+  582 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Computational
+  Methods for Data Analysis <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span class=SpellE><span style='font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:black'>Kutz</span></span><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'> <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>5<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 574</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>ADVANCED
-  HYDROLOGY</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'><span>ISTANBULLUOGLU</span></td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:18;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 474
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Sediment
+  Transport <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Horner-Devine
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>FISH 529</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>WATER
-  CENTER SEMINAR</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>-</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>1</td>
-  <td></td>
+ <tr style='mso-yfti-irow:19;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 574
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Advanced
+  Hydrology <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Istanbulluoglu
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=18 style='height:18.0pt'>
-  <td colspan=4 height=18 class=xl81 style='border-right:.5pt solid black;
-  height:18.0pt'>Autumn 2010</td>
-  <td></td>
+ <tr style='mso-yfti-irow:20;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>FISH
+  529 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Water
+  Center Seminar <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>- <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>1<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>ATM S 501</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>ATMOS
-  PHYS &amp; CHEM</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>WALLACE</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>5</td>
-  <td></td>
+ <tr style='mso-yfti-irow:21;height:.25in'>
+  <td nowrap colspan=4 valign=top style='border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.25in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>AUTUMN 2010 <o:p></o:p></span></b></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 424</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>GIS
-  FOR CIV ENGRS</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>KAMAL</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:22;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>ATM S
+  501 <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Atmospheric
+  Physics &amp; Chemistry <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Wallace
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>5<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 476</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>PHYSICAL
-  HYDROLOGY</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'><span>ISTANBULLUOGLU</span></td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:23;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 424
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>GIS For
+  Civil Engineers <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Kamal <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 class=xl77 width=83 style='height:15.0pt;border-top:none;
-  width:83pt'>CEE 500</td>
-  <td class=xl65 width=231 style='border-top:none;border-left:none;width:231pt'>CEE
-  SEMINARS</td>
-  <td class=xl65 width=92 style='border-top:none;border-left:none;width:92pt'>-</td>
-  <td class=xl78 width=43 style='border-top:none;border-left:none;width:43pt'>1</td>
-  <td></td>
+ <tr style='mso-yfti-irow:24;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 476
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Physical
+  Hydrology <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Istanbulluoglu
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=15 style='height:15.0pt'>
-  <td height=15 width=83 style='height:15.0pt;width:83pt' align=left
-  valign=top><span style='position:absolute;z-index:5;margin-left:-1px;
-  margin-top:14px;width:88px;height:3px'>
-  <table cellpadding=0 cellspacing=0>
-   <tr>
-    <td width=0 height=0></td>
-    <td width=3></td>
-    <td width=80></td>
-    <td width=5></td>
-   </tr>
-   <tr>
-    <td height=3></td>
-    <td align=left valign=top><img width=3 height=3
-    src="test_files/image005.png"></td>
-    <td></td>
-    <td align=left valign=top><img width=5 height=3
-    src="test_files/image006.png"></td>
-   </tr>
-  </table>
-  </span>
-  <table cellpadding=0 cellspacing=0>
-   <tr>
-    <td height=15 class=xl83 width=83 style='height:15.0pt;border-top:none;
-    width:83pt'>CEE 578</td>
-   </tr>
-  </table>
-  </span></td>
-  <td class=xl84 width=231 style='border-top:none;border-left:none;width:231pt'>WATER
-  SYS MGMT &amp; OP</td>
-  <td width=92 style='width:92pt' align=left valign=top><span style='position:
-  absolute;z-index:6;margin-left:91px;margin-top:14px;width:46px;height:77px'>
-  <table cellpadding=0 cellspacing=0>
-   <tr>
-    <td width=0 height=0></td>
-    <td width=7></td>
-    <td width=36></td>
-    <td width=3></td>
-   </tr>
-   <tr>
-    <td height=3></td>
-    <td align=left valign=top><img width=7 height=3
-    src="test_files/image007.png"></td>
-    <td></td>
-    <td rowspan=2 align=left valign=top><span style='position:absolute;
-    z-index:7;margin-left:0px;margin-top:0px;width:3px;height:3px'><img
-    width=3 height=3 src="test_files/image008.png"></span><span
-    style='position:absolute;z-index:8;margin-left:0px;margin-top:0px;
-    width:3px;height:77px'><img width=3 height=77 src="test_files/image009.png"></span></td>
-   </tr>
-   <tr>
-    <td height=74></td>
-   </tr>
-  </table>
-  </span>
-  <table cellpadding=0 cellspacing=0>
-   <tr>
-    <td height=15 class=xl84 width=92 style='height:15.0pt;border-top:none;
-    border-left:none;width:92pt'>LUNDQUIST</td>
-   </tr>
-  </table>
-  </span></td>
-  <td class=xl85 width=43 style='border-top:none;border-left:none;width:43pt'>3</td>
-  <td></td>
+ <tr style='mso-yfti-irow:25;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 500
+  <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE
+  Seminars <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>- <o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>1<o:p></o:p></span></p>
+  </td>
  </tr>
- <tr height=90 style='height:90.0pt;mso-xlrowspan:6'>
-  <td height=90 colspan=5 style='height:90.0pt;mso-ignore:colspan'></td>
+ <tr style='mso-yfti-irow:26;mso-yfti-lastrow:yes;height:15.0pt'>
+  <td nowrap valign=top style='border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>CEE 578<o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Water
+  Systems Management &amp; Operations<o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal><span style='font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:black'>Lundquist<o:p></o:p></span></p>
+  </td>
+  <td nowrap valign=top style='border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:black'>3<o:p></o:p></span></p>
+  </td>
  </tr>
-</table> 
-      <p>Updated: 
-        <!-- #BeginDate format:Am1 -->October 6 , 2013<!-- #EndDate -->
+</table>
+      
+    <p>Updated: 
+        <!-- #BeginDate format:Am1 -->May 29, 2014<!-- #EndDate -->
     </div> 
     <div id="clear">&nbsp;</div> 
   </div> 
