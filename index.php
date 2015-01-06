@@ -62,6 +62,9 @@
 <h2>Publications</h2>
 <ul>
   <li>
+    <p>Hamman, J.J., Hamlet, A.F., Lee, Se-Yeun, Grossman, E.E., Fuller, R.  (2015). Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain. Northwest Science, in review.</p>
+  </li>
+  <li>
     <p>Freitag, B.,  Carlton, D., &amp; Hamman, J. (2012). Building better flood risk maps: Lessons  learned from the electric car. Natural Hazards Observer, <em>XXXVII</em> (1), 8-10. [<a href="http://www.hydro.washington.edu/~jhamman/publications/Freitag_2012_NaturalHazardsObserver_paper.pdf">.pdf</a>]</p>
   </li>
 </ul>
@@ -70,8 +73,8 @@
 <ul>
   <li><a href="http://www.hydro.washington.edu/~jhamman/presentations.php">Presentations / Posters</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/courses.php">Courses I've taken</a></li>
-  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2014.pdf">Resume [.pdf]</a></li>
-  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2014.pdf">CV [.pdf]</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_Resume_2015.pdf">Resume [.pdf]</a></li>
+  <li><a href="http://www.hydro.washington.edu/~jhamman/resume/Hamman_CV_2015.pdf">CV [.pdf]</a></li>
   <li><a href="http://scholar.google.com/citations?user=kCr0x0sAAAAJ">Google Scholar Page</a></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/updates/index.html">Weekly Progress Reports<a/></li>
   <li><a href="http://www.hydro.washington.edu/~jhamman/hydro-logic/index.html">Blog</a></li>
